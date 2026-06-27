@@ -1,0 +1,9 @@
+{
+  "name": "mrg-iphone-wkwebview",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MRG iPhone WKWebView",
+  "scripts": {
+    "start": "echo Projeto iPhone"
+  }
+}
